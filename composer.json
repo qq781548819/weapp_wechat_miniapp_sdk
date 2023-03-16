@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^7.0 || ^8.0",
-    "nyuwa/simplecache": "dev-master",
+    "nyuwa/simplecache": "dev-master"
   },
 
   "autoload": {
